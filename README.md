@@ -8,4 +8,4 @@
 - :dromedary_camel: DS & ALGORITHMS :sparkler::sparkler::sparkler::sparkler::sparkler:
 - 📫 aarwinkhan@gmail.com
 - 😄 AND MILES TO GO BEFORE I SLEEP
-- ![](https://media.giphy.com/media/TxWXgClHzwhji/giphy.gif)![](https://media.giphy.com/media/L4ZI0w4waQ2vSkMgU9/giphy.gif)
+- ![](https://media.giphy.com/media/TxWXgClHzwhji/giphy.gif)BUY ME A COFEE![](https://media.giphy.com/media/L4ZI0w4waQ2vSkMgU9/giphy.gif)
