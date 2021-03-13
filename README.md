@@ -5,7 +5,7 @@
 - :book:  Javascript     :star::star::star::star:
 - :heart:  CSS            :star::star::star::star:
 - :trollface: HTML             :star::star::star::star::star:
-- :dromedary_camel: DS & ALGORITHMS :sparkler::sparkler::sparkler::sparkler::sparkler:
+- :dromedary_camel: DS & ALGORITHMS :star::star::star::star::star:
 - 📫 aarwinkhan@gmail.com
 - 😄 AND MILES TO GO BEFORE I SLEEP
 - ![](https://media.giphy.com/media/TxWXgClHzwhji/giphy.gif):coffee:BUY ME A COFEE:coffee: ![](https://media.giphy.com/media/L4ZI0w4waQ2vSkMgU9/giphy.gif)
